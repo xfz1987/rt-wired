@@ -1,0 +1,7 @@
+wired-checkbox {
+	margin: 15px;
+}
+.custom {
+  	color: blue;
+  	--wired-checkbox-icon-color: red;
+}

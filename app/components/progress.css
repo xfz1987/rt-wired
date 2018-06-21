@@ -1,0 +1,6 @@
+.custom {
+    --wired-progress-color: rgba(220, 0, 50, 0.1);
+    --wired-progress-label-color: green;
+    --wired-progress-font-size: 24px;
+    width: 300px;
+}

@@ -1,0 +1,14 @@
+wired-icon-button {
+  margin: 0 10px;
+}
+.big {
+  --wired-icon-size: 40px;
+  padding: 16px;
+}
+.red {
+    color: red;
+}
+.pinkbg {
+    color: red;
+    --wired-icon-bg-color: pink;
+}

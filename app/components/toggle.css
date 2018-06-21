@@ -1,0 +1,7 @@
+wired-toggle {
+    margin: 10px;
+}
+.cust {
+  	--wired-toggle-off-color: black;
+  	--wired-toggle-on-color: red;
+}

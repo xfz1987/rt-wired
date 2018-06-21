@@ -1,0 +1,7 @@
+wired-radio {
+   margin: 0 15px;
+}
+.cradio {
+  color: blue;
+  --wired-radio-icon-color: red;
+}

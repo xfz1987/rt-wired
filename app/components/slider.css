@@ -1,0 +1,9 @@
+wired-slider {
+      margin: 5px 0;
+}
+.custom {
+  	width: 400px;
+  	--wired-slider-knob-color: green;
+  	--wired-slider-knob-zero-color: red;
+  	--wired-slider-bar-color: blue;
+}
